@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bae8a0ab.css",
+    "main.js": "/static/js/main.be20ea34.js",
+    "static/media/feature-work3@3x.png": "/static/media/feature-work3@3x.b415cba750e52786bd71.png",
+    "static/media/feature-work@3x.png": "/static/media/feature-work@3x.b2eb6e91e41e69000217.png",
+    "static/media/feature-work2@3x.png": "/static/media/feature-work2@3x.19354cc22499ab1090bf.png",
+    "static/media/feature-work1@3x.png": "/static/media/feature-work1@3x.3ccb551ac691e772f296.png",
+    "static/media/Pangram-Bold.otf": "/static/media/Pangram-Bold.da4d24160c8050a3624f.otf",
+    "static/media/AquireBold-8Ma60.otf": "/static/media/AquireBold-8Ma60.cfc5ce07bacb3e5972c3.otf",
+    "static/media/AquireLight-YzE0o.otf": "/static/media/AquireLight-YzE0o.03035c58e93951e8d152.otf",
+    "index.html": "/index.html",
+    "main.bae8a0ab.css.map": "/static/css/main.bae8a0ab.css.map",
+    "main.be20ea34.js.map": "/static/js/main.be20ea34.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bae8a0ab.css",
+    "static/js/main.be20ea34.js"
+  ]
+}
